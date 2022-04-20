@@ -7,7 +7,9 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+resnet_test_C.ipynb
 FinalData/
+Modify/
 .idea/
 .Python
 build/
