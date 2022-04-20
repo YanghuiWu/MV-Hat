@@ -7,9 +7,6 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-resnet_test_C.ipynb
-FinalData/
-Modify/
 .idea/
 .Python
 build/
@@ -131,3 +128,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/Res50_Test.ipynb
+resnet_test_C.ipynb
+FinalData/
+Modify/
